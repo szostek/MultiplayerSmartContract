@@ -4,7 +4,7 @@ pragma solidity ^0.8.11;
 
 import "./ownable.sol";
 
-/// @title A multi-player tournament contract for ChainGun
+/// @title A multi-player tournament contract for Unity game
 /// @author Kyle Szostek
 /// @notice This contracts allow multiple instances of game to run at the same time.  
 /// @dev All functions are tested and working successfully, some have HUGE security issues.
